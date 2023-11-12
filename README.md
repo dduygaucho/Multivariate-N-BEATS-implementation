@@ -1,10 +1,6 @@
 
 ---
 
-*
-
----
-
 # Time Series Forecasting for Air Quality Prediction (PM2.5) - README.md
 - Name: `Ngoc Duy Tran`
 
@@ -26,3 +22,10 @@ The dataset has already been downloaded and preprocessed and uploaded to curated
 
 To run the modelling section, please visit the `notebooks` directory and run the files in order:
 1. `modelling.ipynb`: This notebook details all necessary preprocessing steps to transform the data into smoother and more easily interpretable data to apply the machine learning/ deep learning methodologies on such as Fourier Transform, spline imputation. This notebook covers N-BEATS extension for multivariate data and other Seq2Seq models such as GRU and LSTM.
+
+To understand about the methodology, please refer to the repo directory and read the report pdf file.
+
+## CONTACT
+Should you have any questions, please contact me via the email: ngocduyt@student.unimelb.edu.au
+
+---
